@@ -1,0 +1,31 @@
+PODS:
+  - Flutter (1.0.0)
+  - PLPlayerKit (3.4.3):
+    - PLPlayerKit/iphoneos (= 3.4.3)
+  - PLPlayerKit/iphoneos (3.4.3)
+  - plugin_plplayer (0.0.1):
+    - Flutter
+    - PLPlayerKit
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - plugin_plplayer (from `.symlinks/plugins/plugin_plplayer/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PLPlayerKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  plugin_plplayer:
+    :path: ".symlinks/plugins/plugin_plplayer/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  PLPlayerKit: a44734dc78c1f8f9fb22c537fa1916612fa46b06
+  plugin_plplayer: b34aad767e5cd0b9ecdc93f6f37f34bb802d6a89
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
